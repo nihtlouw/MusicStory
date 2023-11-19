@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="peach">#d1768f</color>
+    <color name="cyan">#FF03DAC5</color>
+    <color name="yellow">#CFAC38</color>
+    <color name="black">#FF000000</color>.
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#5EC5d4</color>
+    <color name="Purple">#FF6200EE</color>
+    <color name="bluedark">#06114F</color>
+    <color name="colorBase">#EEEEEE</color>
+    <color name="colorAccent">#43C6AC</color>
+
+</resources>
